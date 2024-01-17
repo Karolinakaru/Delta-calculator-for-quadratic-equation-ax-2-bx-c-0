@@ -12,7 +12,7 @@
         a = double.Parse(Console.ReadLine());
         Console.WriteLine("Enter the value of \"b\"and press Enter");
         b = double.Parse(Console.ReadLine());
-        Console.WriteLine("Enter the value of \"b\"and press Enter");
+        Console.WriteLine("Enter the value of \"c\"and press Enter");
         c = double.Parse(Console.ReadLine());
         wynik = (Math.Pow(b, 2) - (4 * a * c ));
         Console.WriteLine("The result is: " + wynik);
